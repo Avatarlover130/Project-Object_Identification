@@ -1,0 +1,11 @@
+.header{
+    font-family: 'Caveat', cursive;
+    color:rgb(0, 0, 0);
+    font-size:70;
+}
+
+canvas{
+    border-radius:30px; 
+    box-shadow: #00f7ff;
+   
+}

@@ -1,0 +1,22 @@
+body {
+    background-image:url('aesthetic-desktop-1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ }
+ 
+ .heading{
+     font-family: 'Caveat', cursive;
+     color: white;
+     font-size:50;
+ }
+
+ .btn{
+     
+     color: rgb(0, 0, 0);
+     font-family: 'Caveat', cursive;
+     font-size: 18px;
+     background-color: transparent;
+     border:3px rgb(0, 0, 0) solid;
+     border-radius:100px;
+ }
